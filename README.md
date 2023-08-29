@@ -9,18 +9,17 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
+* [OverView](#Overview)
 * [Architecture](#architecture)
-* [Acknowledgements](#acknowledgements)
+*
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Project using TMDB API to render to collection view and using Youtube API to play video .
+
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -31,6 +30,8 @@
 - WKwebview
 - Youtube API
 - Core Data
+- MVVM
+  
 
 
 ## Features
@@ -38,6 +39,9 @@ List the ready features here:
 - Search film
 - Download flim 
 - Save Film
+- Delete flim
+- Play flim
+  
 
 
 ## Screenshots
@@ -46,9 +50,9 @@ List the ready features here:
 
 
 ## Setup
-using SMP to download SDimage from link above 
+Using SMP to download SDimage from link above 
 
-## Usage
+## Overview
 How does one go about using it?
 Provide various use cases and code examples here.
 
@@ -56,15 +60,8 @@ Provide various use cases and code examples here.
 
 
 ## Architecture
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 ## Contact
