@@ -1,7 +1,6 @@
 #
 # Movie Flim
-> Simple project using TMDB API and SDImage to load remote image from URl.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Simple project using TMDB API and SDImage.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,9 +8,8 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [OverView](#Overview)
+* [OverView](#overview)
 * [Architecture](#architecture)
-*
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -45,8 +43,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+
 
 
 ## Setup
@@ -65,4 +63,4 @@ Provide various use cases and code examples here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [HiepDo-Linkedin](https://www.linkedin.com/in/dohiep1999/) - feel free to contact me!
